@@ -1,0 +1,10 @@
+git init
+git status
+ git add .
+ git commit -m '<commit name>'
+ git log
+ git branch
+ git branch <name of new branch>
+ git checkout <name of branch> (switch branch)
+ git merge <name of branch> (merge current branch with input branch)
+ 
